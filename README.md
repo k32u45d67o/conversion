@@ -4,6 +4,7 @@
 ・javaの実行環境
 〇使い方
 conversionフォルダをダウンロードする。
+Cドライブ直下にフォルダを置く
 RCVフォルダにあるgyomu.txtに変換前のデータを記述する。
 コマンドプロンプトで
 java -jar conversion.jar
